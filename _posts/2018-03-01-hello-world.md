@@ -1,9 +1,6 @@
 ---
 title: "Ropa de niñ@s"
-description: "'You ought to be ashamed of yourself for asking such a simple question,' added the Gryphon; and then they both sat silent and looked at poor Alice, who felt ready to sink into the earth. At last the Gryphon said to the Mock Turtle, 'Drive on, old fellow! Don't be all day about it!' and he went on in these words:
-'Yes, we went to school in the sea, though you mayn't believe it—'
-'I never said I didn't!' interrupted Alice.
-'You did,' said the Mock Turtle."
+description: "'Tienda Valely tiene lo mejor y mas nuevo en tendencias para ropa de niñas y niños con la mas alta calidad de cada tela pensada en usted para que le durea su niño, tambien Tiendas Valely cuenta con una variedad de modelos y estilos de ropa para que encuentre lo que necesita y en todas las tallas, somos una de las mejores empresas en la industria textilera en el mundo"
 picture: blog1.jpg
 
 label_default: "alice" 
